@@ -1,5 +1,1 @@
-- 👋 Hi, I’m indpon
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning luau & html css js
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me: iamindpon@gmail.com
+Im indpon OK
